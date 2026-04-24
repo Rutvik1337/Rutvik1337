@@ -1,16 +1,15 @@
-## Hi there 👋
+## About
 
-<!--
-**Rutvik1337/Rutvik1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rutvik.  
+I'm a first-year student currently exploring programming and learning step by step.  
+Right now, I work mainly with **Python**, and I’m focused on building a stronger base through practice and curiosity.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Shizuku
+
+<p align="center">
+  <img src="shizuku.png" alt="Shizuku Image" width="95%">
+</p>
